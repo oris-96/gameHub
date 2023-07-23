@@ -1,0 +1,3 @@
+[submodule "gamehubber"]
+	path = gamehubber
+	url = https://github.com/oris-96/gameHub.git
